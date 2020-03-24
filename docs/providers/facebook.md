@@ -1,6 +1,6 @@
 # Facebook
 
-[Source Code](https://github.com/nuxt-community/auth-module/blob/dev/lib/providers/facebook.js)
+[Source Code](https://github.com/nuxt-community/auth-module/blob/master/lib/providers/facebook.js)
 
 ## Usage
 
